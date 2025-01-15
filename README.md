@@ -1,6 +1,3 @@
-### README for GithubProxyMonorepo
-
----
 
 # GithubProxyMonorepo
 
